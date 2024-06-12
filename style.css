@@ -29,7 +29,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 70px);
     grid-template-rows: repeat(5, 70px);
-    gap: 10px;
+    gap: 9px;
 }
 .calculator .buttons button{
     border-radius: 20px;
