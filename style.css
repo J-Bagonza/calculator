@@ -12,13 +12,13 @@ body{
         linear-gradient(140deg, #3B3E4C, #1E222F);
     padding: 20px;
     border-radius: 40px;
-    box-shadow: 49px 149px 149px #2b2e36;
+    box-shadow: 50px 150px 150px #2b2e36;
 }
 .calculator .screen{
     height: 200px; 
     padding-top: 50px;
     color: #bbbbbb;
-    font-size: 49px;
+    font-size: 50px;
     text-align: right;
 }
 .calculator .screen .new{
