@@ -16,9 +16,9 @@ body{
 }
 .calculator .screen{
     height: 200px; 
-    padding-top: 50px;
+    padding-top: 40px;
     color: #bbbbbb;
-    font-size: 50px;
+    font-size: 40px;
     text-align: right;
 }
 .calculator .screen .new{
