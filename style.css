@@ -10,8 +10,8 @@ body{
 .calculator{
     background-image: 
         linear-gradient(140deg, #3B3E4C, #1E222F);
-    padding: 920px;
-    border-radius: 140px;
+    padding: 20px;
+    border-radius: 40px;
     box-shadow: 50px 150px 150px #2b2e36;
 }
 .calculator .screen{
